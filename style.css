@@ -14,13 +14,38 @@ body {
     background-color: lightblue;
     padding: 1%;
     align-items: center;
+    justify-content: space-between;
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
 }
 
+nav > a{ 
+    color: black;
+    font-size: large;
+    padding: 0.5rem;
+    text-decoration: none;
+
+    &:hover{
+        text-decoration: underline;
+    }
+}
+
+#logo-wrapper{
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
 .stats-container {
     display: flex;
+    align-items: center;
+    border: 3px solid whitesmoke;
+
+    &:hover{
+        cursor: pointer;
+        box-shadow: 0 0 30px lightblue;
+    }
 }
 
 .stats-card {
@@ -72,4 +97,9 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+
+    &:hover{
+        cursor: pointer;
+        background-color: #a8b0bc;
+    }
 }
