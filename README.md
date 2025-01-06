@@ -23,10 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video>
-    <source src="walkthrough_video.mp4" type="video/mp4">
-    Browser doesn't support the video tag.
-</video>
+https://github.com/user-attachments/assets/b0d7485a-ea5c-4bb1-8db8-208111fadbe6
 
 Video created with Snipping Tool.
 
