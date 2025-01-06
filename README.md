@@ -23,7 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video src='walkthrough_video.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<video>
+    <source src="walkthrough_video.mp4" type="video/mp4">
+    Browser doesn't support the video tag.
+</video>
 
 Video created with Snipping Tool.
 
